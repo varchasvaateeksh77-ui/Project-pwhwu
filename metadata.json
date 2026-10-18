@@ -1,0 +1,6 @@
+{
+  "name": "For Rishika — Interactive Proposal Letter",
+  "description": "A 7-chapter interactive hand-inked pressed-flower proposal letter for Rishika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
